@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository of my personal portfolio website. This repository powers the content available at [nani2357.github.io](https://nani2357.github.io/).
 
-![Website Screenshot](./social-image.png) <!-- You can add a screenshot of your website here -->
+![Website Screenshot](./social-image.png) 
 
 ## Overview
 
