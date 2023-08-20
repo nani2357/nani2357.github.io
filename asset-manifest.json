@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1a02b08.css",
+    "main.js": "/static/js/main.2de35da0.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/20230608_150954.jpg": "/static/media/20230608_150954.4d80b63942f6ec181c37.jpg",
+    "static/media/uk_map1.png": "/static/media/uk_map1.a272834f7e2eacb3fd4e.png",
+    "static/media/ai_world.jpg": "/static/media/ai_world.1f88f35fda450ca581e2.jpg",
+    "static/media/Data_Science.png": "/static/media/Data_Science.dedd4db18747d4690814.png",
+    "static/media/sf.png": "/static/media/sf.6a9f6bd7e8547d654d63.png",
+    "static/media/prec.png": "/static/media/prec.6177a844f8ae0c3366ff.png",
+    "static/media/istqb.jpg": "/static/media/istqb.f4e662cde1c30932840d.jpg",
+    "static/media/img.jpg": "/static/media/img.21215b52955b2e6d358f.jpg",
+    "static/media/dlai.png": "/static/media/dlai.d5ce0ce4587f8d88ace3.png",
+    "index.html": "/index.html",
+    "main.f1a02b08.css.map": "/static/css/main.f1a02b08.css.map",
+    "main.2de35da0.js.map": "/static/js/main.2de35da0.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a02b08.css",
+    "static/js/main.2de35da0.js"
+  ]
+}
